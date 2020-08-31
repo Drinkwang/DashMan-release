@@ -1,0 +1,1 @@
+{"enemy":[{"id":901,"type":2,"name":"女神","posX":90.0,"posY":0.0,"C":10.0,"Size":-0.15000000596046449,"shakeTime":100.0,"speedipa":100.0,"idleAni":"Lady_idle","beHitAni":"Lady_die","audioSrc":"Q","isbeHit":false}],"Length":100}
